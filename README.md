@@ -1,5 +1,12 @@
 ## Hey Stranger! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
+### I'm Tonmoy
+- A struggling enthusiast.
+- A CS Undergrad student. 
+- And nothing else to add.
+- Really nothing else.
+
+
 ## Languages
 ![C](http://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
@@ -20,9 +27,3 @@
 </a>
 <br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-
-### I'm Tonmoy, I'm kinda lame
-- An enthusiast.
-- Undergrad student. 
-- And nothing else to add.
-- Really nothing else.
