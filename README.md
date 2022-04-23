@@ -16,7 +16,7 @@
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TonmoyDaFulkopi)](https://github.com/TonmoyDaFulkopi/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TonmoyDaFulkopi&layout=compact&langs_count=10&theme=dark&hide=Jupyter%20Notebook,PLSQL,html,css)
 
 <a href="https://www.linkedin.com/in/tonmoy-hasan-72b78719a/">
   <img align="left" alt="My Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
