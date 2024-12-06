@@ -44,6 +44,7 @@
  [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
  [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
  [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=dotnet)](https://skillicons.dev)
 
  [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
  [![My Skills](https://skillicons.dev/icons?i=azure)](https://skillicons.dev)
