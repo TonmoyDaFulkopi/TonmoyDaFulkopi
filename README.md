@@ -1,4 +1,4 @@
-## Hey Stranger! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Hiya Fella! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
@@ -51,14 +51,24 @@
  [![My Skills](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev)
  [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TonmoyDaFulkopi&layout=compact&langs_count=10&theme=dark&hide=Jupyter%20Notebook,PLSQL,html,css)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TonmoyDaFulkopi&layout=compact&theme=tokyonight&hide_border=true&langs_count=5&hide=html,css,jupyter%20notebook)
 
-## Knock Me On
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/tonmoy-hasan-72b78719a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tonmoy-hasan-72b78719a/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/tonmoydafulkopi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/tonmoy.hasan.3323/" height="30" width="40" /></a>
+## Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tonmoy-hasan-72b78719a/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/tonmoydafulkopi/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" alt="Facebook"/>
+  </a>
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/tonmoy-hasan-72b78719a/" target="_blank">LinkedIn</a>
+  &nbsp;•&nbsp;
+  <a href="https://www.facebook.com/tonmoydafulkopi/" target="_blank">Facebook</a>
+</p>
 
 <br />
