@@ -3,8 +3,8 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 ### I'm Tonmoy
-- A CS Undergrad student. 
-- And nothing else to add.
+- CS undergrad
+- Interested in backend systems, LLM-based applications, and DevOps
 
 ---
 
