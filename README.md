@@ -10,8 +10,7 @@
 
 ### What I'm into:
 - **MERN**, **SpringBoot**, **Django**
-- **Machine Learning** LLM projects.  
-- My thesis: *Optimizing Lane-Changing Algorithms for Automated Vehicles.* 
+- **Machine Learning** LLM projects. 
 
 ---
 
